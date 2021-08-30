@@ -5,8 +5,7 @@ int WINAPI WinMain(
 	HINSTANCE hPrevInstance,
 	LPSTR lpCmdLine,
 	int nCmdShow
-)
-{
+) {
 	(void) hPrevInstance;
 	(void) lpCmdLine;
 	(void) nCmdShow;
